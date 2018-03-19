@@ -34,18 +34,18 @@ float file_copy_win(char *file_source, char *file_dest)
 
 int main()
 {
-	char sourse16[51] = "C:\\Users\\Vlad\\Documents\\GitHub\\SPL\\input16.txt";
-	char sourse64[51] = "C:\\Users\\Vlad\\Documents\\GitHub\\SPL\\input64.txt";
-	char sourse256[52] = "C:\\Users\\Vlad\\Documents\\GitHub\\SPL\\input256.txt";
-	char sourse1024[53] = "C:\\Users\\Vlad\\Documents\\GitHub\\SPL\\input1024.txt";
-	char out16_c[51] = "C:\\Users\\Vlad\\Documents\\GitHub\\SPL\\out16_c.txt";
-	char out16_win[51] = "C:\\Users\\Vlad\\Documents\\GitHub\\SPL\\out16_wim.txt";
-	char out64_c[51] = "C:\\Users\\Vlad\\Documents\\GitHub\\SPL\\out64_c.txt";
-	char out64_win[51] = "C:\\Users\\Vlad\\Documents\\GitHub\\SPL\\out64_win.txt";
-	char out256_c[51] = "C:\\Users\\Vlad\\Documents\\GitHub\\SPL\\out256_c.txt";
-	char out256_win[51] = "C:\\Users\\Vlad\\Documents\\GitHub\\SPL\\out256_win.txt";
-	char out1024_c[51] = "C:\\Users\\Vlad\\Documents\\GitHub\\SPL\\out1024_c.txt";
-	char out1024_win[51] = "C:\\Users\\Vlad\\Documents\\GitHub\\SPL\\out1024_win.txt";
+	char sourse16[51] = "C:\\Users\\Þëÿ\\Documents\\GitHub\\SPL\\input16.txt";
+	char sourse64[51] = "C:\\Users\\Þëÿ\\Documents\\GitHub\\SPL\\input64.txt";
+	char sourse256[52] = "C:\\Users\\Þëÿ\\Documents\\GitHub\\SPL\\input256.txt";
+	char sourse1024[53] = "C:\\Users\\Þëÿ\\Documents\\GitHub\\SPL\\input1024.txt";
+	char out16_c[51] = "C:\\Users\\Þëÿ\\Documents\\GitHub\\SPL\\out16_c.txt";
+	char out16_win[51] = "C:\\Users\\Þëÿ\\Documents\\GitHub\\SPL\\out16_wim.txt";
+	char out64_c[51] = "C:\\Users\\Þëÿ\\Documents\\GitHub\\SPL\\out64_c.txt";
+	char out64_win[51] = "C:\\Users\\Þëÿ\\Documents\\GitHub\\SPL\\out64_win.txt";
+	char out256_c[51] = "C:\\Users\\Þëÿ\\Documents\\GitHub\\SPL\\out256_c.txt";
+	char out256_win[51] = "C:\\Users\\Þëÿ\\Documents\\GitHub\\SPL\\out256_win.txt";
+	char out1024_c[51] = "C:\\Users\\Þëÿ\\Documents\\GitHub\\SPL\\out1024_c.txt";
+	char out1024_win[51] = "C:\\Users\\Þëÿ\\Documents\\GitHub\\SPL\\out1024_win.txt";
 	printf("%c", 218);
 	for (int i = 0; i < 4; ++i)
 	{
